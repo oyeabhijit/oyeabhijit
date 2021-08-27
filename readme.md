@@ -1,4 +1,4 @@
-I'm a CS student at SOA University, who likes making cool website, machine learning, and 3D modeling.
+I'm a Computer Science student at SOA University. I like making cool website, machine learning, and 3D modeling.
 
 ## My activities
 
