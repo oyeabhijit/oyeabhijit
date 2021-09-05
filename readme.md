@@ -1,4 +1,6 @@
-I'm a Computer Science student at SOA University. I like making cool websites, machine learning models, and 3D environments.
+<p align="center">
+  <img width="auto" src="hd.png" alt="Data">
+</p>
 
 ## My activities
 
