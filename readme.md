@@ -20,3 +20,13 @@
   <a href="https://www.twitter.com/oyeabhijit" target="_blank"><img width="auto" src="/icons/Twitter.png" alt="Twitter"></a>&nbsp;
   <a href="mailto:abhijitrout.dev@gmail.com" target="_blank"><img width="auto" src="/icons/Gmail.png" alt="Mail"></a>  
 </p>
+
+## My socials
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img width="auto" src="/icons/python.png" alt="Python"></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="auto" src="/icons/cpp.png" alt="C++"></a>&nbsp;
+  <a href="https://opencv.org/" target="_blank"><img width="auto" src="/icons/OCV.png" alt="OpenCV"></a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img width="auto" src="/icons/figma.png" alt="Figma"></a>&nbsp;
+  <a href="https://www.adobe.com/creativecloud.html" target="_blank"><img width="auto" src="/icons/cc.png" alt="Creative Cloud"></a>&nbsp;
+  <a href="https://www.blender.org/" target="_blank"><img width="auto" src="/icons/blender.png" alt="Blender"></a>  
+</p>
