@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeabhijit&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-## My socials
+## My Socials
 <p align="left">
   <a href="https://www.behance.net/abhijitroutdotdev" target="_blank"><img width="auto" src="/icons/Behance.png" alt="Behance"></a>&nbsp;
   <a href="https://www.instagram.com/abhijitrout.dev" target="_blank"><img width="auto" src="/icons/Instagram.png" alt="Insta"></a>&nbsp;
@@ -21,7 +21,7 @@
   <a href="mailto:abhijitrout.dev@gmail.com" target="_blank"><img width="auto" src="/icons/Gmail.png" alt="Mail"></a>  
 </p>
 
-## My socials
+## My Technologies
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img width="auto" src="/icons/python.png" alt="Python"></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="auto" src="/icons/cpp.png" alt="C++"></a>&nbsp;
