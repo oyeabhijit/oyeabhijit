@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img width="auto" src="hd.png" alt="Data">
-</p>
+</p> -->
 
 ## My activities
 
