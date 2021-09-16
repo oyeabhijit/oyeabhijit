@@ -10,7 +10,7 @@
 <a href="https://github.com/oyeabhijit/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeabhijit&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
-
+<!-- 
 ## My Socials
 <p align="left">
   <a href="https://www.behance.net/abhijitroutdotdev" target="_blank"><img width="auto" src="/icons/Behance.png" alt="Behance"></a>&nbsp;
@@ -29,4 +29,4 @@
   <a href="https://www.figma.com/" target="_blank"><img width="auto" src="/icons/figma.png" alt="Figma"></a>&nbsp;
   <a href="https://www.adobe.com/creativecloud.html" target="_blank"><img width="auto" src="/icons/cc.png" alt="Creative Cloud"></a>&nbsp;
   <a href="https://www.blender.org/" target="_blank"><img width="auto" src="/icons/blender.png" alt="Blender"></a>  
-</p>
+</p> -->
