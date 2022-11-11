@@ -1,6 +1,4 @@
-<!-- <p align="center">
-  <img width="auto" src="hd.png" alt="Data">
-</p> -->
+![alt text](https://user-images.githubusercontent.com/67273840/201353630-8ea1c38a-54de-4ece-8f0d-0c5c1947bb95.gif "Logo Title Text 1")
 
 ## My activities
 
