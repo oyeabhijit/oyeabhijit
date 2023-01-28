@@ -1,13 +1,13 @@
-![alt text](https://user-images.githubusercontent.com/67273840/201353630-8ea1c38a-54de-4ece-8f0d-0c5c1947bb95.gif "Logo Title Text 1")
+![header](https://user-images.githubusercontent.com/67273840/215286404-337cf542-15da-4d57-9210-3ee8731ed94f.gif)
 
-## My activities
-
+<!-- ## My activities -->
+<!-- 
 <a href="https://github.com/oyeabhijit/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=oyeabhijit&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/oyeabhijit/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeabhijit&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
+</a> -->
 <!-- 
 ## My Socials
 <p align="left">
